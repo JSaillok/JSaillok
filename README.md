@@ -6,7 +6,10 @@
 **I am Giannis and I am glad you are on my Github profile!**
 
 ## 👨‍💻 About me
-I am a Computer Engineer who graduated with an integrated master's degree at the University of Patras. I am passionate about machine learning and computer vision and am dedicated to exploring innovative solutions to real-world problems.
+I am a Computer Engineer who graduated with an integrated master's degree at the University of Patras. I am passionate about **machine learning**, **computer vision**, and **backend development**, and I am dedicated to exploring innovative solutions to real-world problems.
+
+## 💼 Work
+I currently work as a **Backend Developer at Cognity SA**, where I develop and maintain a **car leasing and rental web/mobile application**. Using **PHP** and the **Laravel framework**, I build robust, scalable backend systems to support seamless user experiences for leasing and renting vehicles. My responsibilities include designing APIs, optimizing database performance, and ensuring secure and efficient application functionality.
 
 ## 🚀 Projects
 
@@ -42,6 +45,8 @@ Feel free to reach out if you're interested in my work or want to collaborate on
 
 ## 🛠️ Languages and Tools
 <p align="left">
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
